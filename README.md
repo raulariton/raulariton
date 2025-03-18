@@ -22,5 +22,5 @@ I'm **Raul**, a software developer and Computer Science student based in Timișo
 ---
 
 <p align="center">
-<img src="giphy.gif" alt="GIF">
+    <img src="giphy.gif" alt="GIF">
 </p>
