@@ -2,8 +2,6 @@
 
 I'm **Raul**, a software developer and Computer Science student based in Timișoara, Romania.
 
-- 🧠 I’m currently learning **React.js**, **Spring Boot**, **Kotlin**.
-
 ## Technologies and tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
